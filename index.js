@@ -28,4 +28,4 @@ setInterval(function () {
     score = 0;
     document.getElementById('score').innerText = `Score : ${score}`;
   }
-}, 5000);
+}, 10000);
